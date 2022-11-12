@@ -7,7 +7,7 @@ layout: home
 
 # Real Estate Dashboards
 
-![useful image]({{ site.url }}/real-estate-data-viz/assets/download.jpg)
+![useful image](https://rathinbector.github.io/real-estate-data-viz/assets/download.jpg)
 
 | Dashboard                                                             | Description                                              |
 | --------------------------------------------------------------------- | -------------------------------------------------------- |
