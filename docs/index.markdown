@@ -9,4 +9,10 @@ layout: home
 
 ![useful image](https://github.com/rathinbector/real-estate-data-viz/blob/b88993bbf5b67420436bfab30aaa361d623c8a04/docs/assets/download.jpg)
 
-## [By Zipcode](https://rathinbector.github.io/real-estate-data-viz/zip)
+| Dashboard                                                             | Description                                              |
+| --------------------------------------------------------------------- | -------------------------------------------------------- |
+| [By State](https://rathinbector.github.io/real-estate-data-viz/state) | Analyze real estate metrics within a state over time.    |
+| [By City](https://rathinbector.github.io/real-estate-data-viz/city)   | Analyze real estate metrics within a city over time.     |
+| [By Zipcode](https://rathinbector.github.io/real-estate-data-viz/zip) | Analyze real estate metrics within a zipcode over time.  |
+| [Map](https://rathinbector.github.io/real-estate-data-viz/map)        | Analyze real estate metrics using a map                  |
+
