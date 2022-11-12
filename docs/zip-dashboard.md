@@ -1,6 +1,6 @@
 layout: page
 title: "zip-Dashboard"
-permalink: /zip
+permalink: /real-estate-data-viz/zip
 
 <head>
     <title>My GitHub Pages Site</title>
