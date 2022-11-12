@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "zip-Dashboard"
-permalink: /real-estate-data-viz/zip
+permalink: /zip
 ---
 
 <head>
