@@ -1,6 +1,8 @@
+---
 layout: page
 title: "zip-Dashboard"
 permalink: /real-estate-data-viz/zip
+---
 
 <head>
     <title>My GitHub Pages Site</title>
