@@ -16,9 +16,6 @@ header_pages:
   - city-dashboard.md
   - zip-dashboard.md
   - map-dashboard.md
-author:
-  name: Rathin Bector
-  email: "rathin.bector@berkeley.edu"
 
 # theme                  : ""
 #  remote_theme           : "mmistakes/minimal-mistakes"
