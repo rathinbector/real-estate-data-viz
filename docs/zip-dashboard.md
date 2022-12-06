@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /zip
+title: "By Zip"
 ---
 
 <head>
