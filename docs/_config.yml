@@ -16,6 +16,9 @@ header_pages:
   - city-dashboard.md
   - zip-dashboard.md
   - map-dashboard.md
+title: U.S. Real Estate Dashboard
+email: Rathin Bector
+github_username: rathinbector
 
 # theme                  : ""
 #  remote_theme           : "mmistakes/minimal-mistakes"
