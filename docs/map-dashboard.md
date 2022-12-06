@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /map
+title: "Price Map"
 ---
 
 <head>
