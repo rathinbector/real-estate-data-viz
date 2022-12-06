@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /state
+title: "By State"
 ---
 
 <head>
