@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /city
-title: "City Dashboard"
+title: "By City"
 ---
 
 <head>
