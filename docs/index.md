@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: false
+title: "Real Estate Dashboard"
 ---
 
 ![useful image](https://rathinbector.github.io/real-estate-data-viz/assets/download.jpg)
