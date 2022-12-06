@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /zip
+permalink: /map
 ---
 
 <head>
