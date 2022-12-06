@@ -3,8 +3,6 @@ layout: home
 author_profile: false
 ---
 
-# Real Estate Dashboards
-
 ![useful image](https://rathinbector.github.io/real-estate-data-viz/assets/download.jpg)
 
 | Dashboard                                                             | Description                                              |
