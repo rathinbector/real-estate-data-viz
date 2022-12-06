@@ -19,7 +19,7 @@ header_pages:
 title: U.S. Real Estate Dashboard
 email: Rathin Bector
 github_username: rathinbector
-content-width: 100%
+# content-width: 100%
 
 # theme                  : ""
 #  remote_theme           : "mmistakes/minimal-mistakes"
