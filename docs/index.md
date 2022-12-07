@@ -3,7 +3,7 @@ layout: home
 author_profile: false
 title: "Real Estate Dashboard"
 ---
-<iframe src="https://rathinbector.github.io/real-estate-data-viz/assets/download.jpg" width="300" title="Banner"></iframe>
+<iframe src="https://rathinbector.github.io/real-estate-data-viz/assets/download.jpg" width="3000" title="Banner"></iframe>
 
 ## Project Description
 This is a data visualization project for the analyzing and understanding real estate data across the United States. Data on this site is provided by Redfin, a national real estate brokerage. In this project, we visualize key metrics such as sale price, list price, inventory, homes sold over time and across geographies.
