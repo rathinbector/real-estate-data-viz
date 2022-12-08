@@ -28,11 +28,11 @@ This project has the following views to analyze real estate data in various diff
  - [Map](https://rathinbector.github.io/real-estate-data-viz/map): View real estate data over the last year on a map
 
 ## The Team
-#### Opeyemi Olanipekun
-<img src="https://rathinbector.github.io/real-estate-data-viz/assets/Opeyemi.png" width="300" title="Banner">
+### Opeyemi Olanipekun
+<img src="https://rathinbector.github.io/real-estate-data-viz/assets/Opeyemi.png" height="300" width="300" title="Banner">
 
-#### Rathin Bector
-<img src="https://rathinbector.github.io/real-estate-data-viz/assets/Rathin.png" width="300" title="Banner">
+### Rathin Bector
+<img src="https://rathinbector.github.io/real-estate-data-viz/assets/Rathin.png" height="300" width="300" title="Banner">
 
-#### Sharat Nellutla
-<img src="https://rathinbector.github.io/real-estate-data-viz/assets/Sharat.png" width="300" title="Banner">
+### Sharat Nellutla
+<img src="https://rathinbector.github.io/real-estate-data-viz/assets/Sharat.png" height="300" width="300" title="Banner">
