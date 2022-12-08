@@ -11,7 +11,6 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 theme: minima
 header_pages:
-  - about.md
   - state-dashboard.md
   - city-dashboard.md
   - zip-dashboard.md
