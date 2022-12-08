@@ -32,7 +32,7 @@ This project has the following views to analyze real estate data in various diff
 <img src="https://rathinbector.github.io/real-estate-data-viz/assets/Opeyemi.png" width="300" title="Banner">
 
 ### Rathin Bector
-<img src="https://rathinbector.github.io/real-estate-data-viz/assets/Rathin.png" width="250" title="Banner">
+<img src="https://rathinbector.github.io/real-estate-data-viz/assets/Rathin.png" width="300" title="Banner">
 
 ### Sharat Nellutla
 <img src="https://rathinbector.github.io/real-estate-data-viz/assets/Sharat.png" width="300" title="Banner">
